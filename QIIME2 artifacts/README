@@ -1,0 +1,4 @@
+## File Use
+1. Download qzv file
+2. Go to <https://view.qiime2.org/> and drop file to view contents
+3. Match "Sample ID" in QIIME2 artifacts to sample metadata and SRA accession information using the QIIME2-artifacts-metadata.xlsx file
