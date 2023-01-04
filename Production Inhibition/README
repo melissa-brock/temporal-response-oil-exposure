@@ -1,0 +1,5 @@
+## Production Inhibition
+Bacterial-Production-Inhibition-Raw-Data is an excel file with 1 sheet per sample date. Each sheet contains disintegrations per minute for the WAF dose response curve.
+Bacterial-Production-Inhibition-Example-Calculations in an excel file demonstrating how the calculations and regressions to obtain inhibition values were performed.
+Primary-Production-Inhibition-Raw-Data is an excel file with 1 sheet per sample date. Each sheet contains disintegrations per minute and PAR for the WAF dose response curve.
+Primary-Production-Inhibition-Example-Calculations in an excel file demonstrating how the calculations and regressions to obtain inhibition values were performed.
